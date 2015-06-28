@@ -1,0 +1,79 @@
+Initialize engine version: 5.0.2f1 (0b02744d4013)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: ATI Radeon HD 5800 Series  (ID=0x6899)
+    Vendor:   ATI
+    VRAM:     1012 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unity_Project\Pinball\pc\photon_demo2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity_Project\Pinball\pc\photon_demo2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity_Project\Pinball\pc\photon_demo2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Unity_Project\Pinball\pc\photon_demo2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Unity_Project\Pinball\pc\photon_demo2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Unity_Project\Pinball\pc\photon_demo2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Unity_Project\Pinball\pc\photon_demo2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Unity_Project\Pinball\pc\photon_demo2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Unity_Project\Pinball\pc\photon_demo2_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading E:\Unity_Project\Pinball\pc\photon_demo2_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.053 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\Unity_Project\Pinball\pc\photon_demo2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Unity_Project\Pinball\pc\photon_demo2_Data\Managed\System.dll (this message is harmless)
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.953958 ms
+
+Unloading 140 unused Assets to reduce memory usage. Loaded Objects now: 282.
+Total: 0.478255 ms (FindLiveObjects: 0.031373 ms CreateObjectMapping: 0.024806 ms MarkObjects: 0.305704 ms  DeleteObjects: 0.114912 ms)
+
+UserId sent: Guest7806
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+OnPhotonJoinRoomFailed got called. This can happen if the room is not existing or full or closed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+OnPhotonJoinRoomFailed got called. This can happen if the room is not existing or full or closed.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ArgumentException: GUILayout: Mismatched LayoutGroup.Repaint
+  at UnityEngine.GUILayoutUtility.BeginLayoutGroup (UnityEngine.GUIStyle style, UnityEngine.GUILayoutOption[] options, System.Type LayoutType) [0x00000] in <filename unknown>:0 
+  at UnityEngine.GUILayout.BeginHorizontal (UnityEngine.GUIContent content, UnityEngine.GUIStyle style, UnityEngine.GUILayoutOption[] options) [0x00000] in <filename unknown>:0 
+  at UnityEngine.GUILayout.BeginHorizontal (UnityEngine.GUILayoutOption[] options) [0x00000] in <filename unknown>:0 
+  at WorkerMenu.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+OnPhotonRandomJoinFailed got called. Happens if no room is available (or all full or invisible or closed). JoinrRandom filter-options can limit available rooms.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ArgumentException: GUILayout: Mismatched LayoutGroup.Repaint
+  at UnityEngine.GUILayoutUtility.BeginLayoutGroup (UnityEngine.GUIStyle style, UnityEngine.GUILayoutOption[] options, System.Type LayoutType) [0x00000] in <filename unknown>:0 
+  at UnityEngine.GUILayout.BeginHorizontal (UnityEngine.GUIContent content, UnityEngine.GUIStyle style, UnityEngine.GUILayoutOption[] options) [0x00000] in <filename unknown>:0 
+  at UnityEngine.GUILayout.BeginHorizontal (UnityEngine.GUILayoutOption[] options) [0x00000] in <filename unknown>:0 
+  at WorkerMenu.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+OnPhotonRandomJoinFailed got called. Happens if no room is available (or all full or invisible or closed). JoinrRandom filter-options can limit available rooms.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+ArgumentException: GUILayout: Mismatched LayoutGroup.Repaint
+  at UnityEngine.GUILayoutUtility.BeginLayoutGroup (UnityEngine.GUIStyle style, UnityEngine.GUILayoutOption[] options, System.Type LayoutType) [0x00000] in <filename unknown>:0 
+  at UnityEngine.GUILayout.BeginHorizontal (UnityEngine.GUIContent content, UnityEngine.GUIStyle style, UnityEngine.GUILayoutOption[] options) [0x00000] in <filename unknown>:0 
+  at UnityEngine.GUILayout.BeginHorizontal (UnityEngine.GUILayoutOption[] options) [0x00000] in <filename unknown>:0 
+  at WorkerMenu.OnGUI () [0x00000] in <filename unknown>:0 
+ 
+(Filename:  Line: -1)
+
+Disconnected from Photon.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+

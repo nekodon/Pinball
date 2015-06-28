@@ -1,0 +1,39 @@
+Initialize engine version: 5.0.2f1 (0b02744d4013)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: ATI Radeon HD 5800 Series  (ID=0x6899)
+    Vendor:   ATI
+    VRAM:     1012 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unity_Project\Pinball\pc\pinball_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity_Project\Pinball\pc\pinball_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity_Project\Pinball\pc\pinball_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Unity_Project\Pinball\pc\pinball_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Unity_Project\Pinball\pc\pinball_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Unity_Project\Pinball\pc\pinball_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Unity_Project\Pinball\pc\pinball_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Unity_Project\Pinball\pc\pinball_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Unity_Project\Pinball\pc\pinball_Data\Managed\Photon3Unity3D.dll (this message is harmless)
+Loading E:\Unity_Project\Pinball\pc\pinball_Data\Managed\Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.052 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\Unity_Project\Pinball\pc\pinball_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Unity_Project\Pinball\pc\pinball_Data\Managed\System.dll (this message is harmless)
+Update() was called by Unity. Scene is loaded. Let's connect to the Photon Master Server. Calling: PhotonNetwork.ConnectUsingSettings();
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 14f0 -> priority: 1 
+OnConnectedToMaster() was called by PUN. Now this client is connected and could join a room. Calling: PhotonNetwork.JoinRandomRoom();
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+OnJoinedRoom() called by PUN. Now this client is in a room. From here on, your game would be running. For reference, all callbacks are listed in enum: PhotonNetworkingMessage
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
